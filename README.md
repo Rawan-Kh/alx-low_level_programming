@@ -1,1 +1,1 @@
-# C programming basics and  Betty-style.
+# C programming and  Betty-style.
