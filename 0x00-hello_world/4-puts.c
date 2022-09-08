@@ -6,7 +6,7 @@ int main(void)
 	
 	puts(string);
 
-	/* Tried printing it directly */
+	/*  printing directly */
 
 	puts("\"Programming is like building a multilingual puzzle\"");
 	return (0);
