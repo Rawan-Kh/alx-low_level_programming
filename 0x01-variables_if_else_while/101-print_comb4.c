@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- *
  * Return: Always 0 (Success)
- * date:05-06-2022
  */
 int main(void)
 {
