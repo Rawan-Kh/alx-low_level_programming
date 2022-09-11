@@ -3,8 +3,6 @@
 #include <time.h>
 /**
  * main -Entry point
- * Author: Sammykingx
- * Date: 05-06-2022
  * Details: c program to print -ve, zero and -ve results of a random number
  * Return: 0 (success)
  */
